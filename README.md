@@ -11,6 +11,10 @@
 <br>
 <br>
 <br>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karimjon0&show_icons=true&theme=radical" alt="bdviett" height="200"width="400" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimjon0&hide_progress=true&theme=radical" alt="bdviett" height="200" width="360"/>
+</p>
 
-![Status](https://github-readme-stats.vercel.app/api?username=Karimjon0&show_icons=true&theme=dracula)                  ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimjon0&latoute=pie)
-
+<a href="https://t.me/K_arimjon" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
+alt="bdviett" height="40" width="35" /></a>
