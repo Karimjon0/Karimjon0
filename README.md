@@ -2,8 +2,6 @@
   <img src="https://github.com/Karimjon0/Karimjon0/blob/main/name.svg" />
 </h1>
 
-### Hi My Name Is Karimjon 
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
